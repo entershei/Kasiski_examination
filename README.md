@@ -1,2 +1,5 @@
 # Kasiski_examination
-Homework for cryptography course 
+
+A C++ project to calculate encryption key length.
+  
+
